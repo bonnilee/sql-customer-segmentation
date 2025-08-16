@@ -36,14 +36,6 @@ Insights generated can be used for targeted marketing strategies and loyalty pro
 
 ---
 
-## Project Overview
-This project demonstrates customer analytics using SQL.  
-It performs customer segmentation based on purchase behavior, implements RFM analysis, high-value customer ranking, and moving average spend trends.  
-The project showcases advanced SQL skills, including CTEs, window functions, and conditional statements.  
-Insights generated can be used for targeted marketing strategies and loyalty programs.
-
----
-
 ## Project Structure / Workflow
 
 # SQL Customer Segmentation Project

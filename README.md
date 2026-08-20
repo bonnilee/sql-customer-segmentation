@@ -36,6 +36,33 @@ Insights generated can be used for targeted marketing strategies and loyalty pro
 
 ---
 
+<<<<<<< HEAD
+=======
+## Project Overview
+This project demonstrates customer analytics using SQL.  
+It performs customer segmentation based on purchase behavior, implements RFM analysis, high-value customer ranking, and moving average spend trends.  
+The project showcases advanced SQL skills, including CTEs, window functions, and conditional statements.  
+Insights generated can be used for targeted marketing strategies and loyalty programs.
+
+---
+
+## Project Structure / Workflow
+
+# SQL Customer Segmentation Project
+
+![SQLite Badge](https://img.shields.io/badge/Database-SQLite-blue)
+![SQL Badge](https://img.shields.io/badge/Language-SQL-orange)
+![Status Badge](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+## Tech Stack
+- **Database:** SQLite 3.50.4  
+- **Query Language:** SQL  
+- **Tools:** SQLite CLI, Visual Studio Code  
+- **Concepts:** Customer Segmentation, RFM Analysis, Window Functions, Conditional Statements
+
+---
+
+>>>>>>> d311cbe (Add Excel customer segmentation dashboard)
 ## Project Structure / Workflow
 
 sql_customer_segmentation/
@@ -147,3 +174,38 @@ Customer Segmentation & Analytics
 Summary:
 
 Developed a SQL-based customer segmentation project. Implemented RFM analysis, high-value customer ranking, and moving average spend trends using window functions and CTEs. Results provide actionable insights for targeted marketing strategies and loyalty programs.
+Excel Dashboard
+
+To extend the SQL analysis into a business reporting workflow, I created an interactive Excel dashboard using the customer and order data exported from the SQLite database.
+
+Dashboard Features
+KPI Metrics
+Total Revenue
+Total Orders
+Total Customers
+Average Order Value
+Top Customers by Total Spend
+Used a PivotTable to aggregate order revenue by customer.
+Ranked customers by total spending.
+Created a bar chart to highlight the highest-value customers.
+Revenue Trend Over Time
+Created a Year-Month field from the order dates.
+Used a PivotTable to aggregate revenue by month.
+Created a line chart to visualize revenue trends over time.
+Customer Segmentation
+Calculated total spending for each customer using Excel formulas.
+Classified customers into three tiers:
+Top Customer
+High Value
+Regular
+Created a customer segmentation chart to visualize the distribution of customers across tiers.
+Tools Used
+SQL / SQLite — database design, joins, aggregations, CTEs, window functions, and customer segmentation
+Python / Pandas — data processing and database export
+Microsoft Excel — PivotTables, formulas, KPI reporting, and dashboard visualization
+Git / GitHub — version control and project documentation
+Business Insights
+
+The analysis demonstrates how raw transactional data can be transformed into actionable business information. Customers were ranked by total spending to identify high-value customers, while revenue trends provide a view of performance over time. Customer segmentation further demonstrates how transactional data can be used to categorize customers based on their purchasing behavior.
+
+The project combines SQL data analysis with Excel-based business reporting to demonstrate the full workflow from database querying and data preparation to visualization and communicating insights.

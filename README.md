@@ -182,7 +182,6 @@ Excel Dashboard
 ![Customer Segmentation Dashboard](customer_segmentation_dashboard.png)
 
 To extend the SQL analysis into a business reporting workflow, I created an interactive Excel dashboard using the customer and order data exported from the SQLite database.
-To extend the SQL analysis into a business reporting workflow, I created an interactive Excel dashboard using the customer and order data exported from the SQLite database.
 
 Dashboard Features
 KPI Metrics

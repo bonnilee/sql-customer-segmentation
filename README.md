@@ -36,33 +36,6 @@ Insights generated can be used for targeted marketing strategies and loyalty pro
 
 ---
 
-<<<<<<< HEAD
-=======
-## Project Overview
-This project demonstrates customer analytics using SQL.  
-It performs customer segmentation based on purchase behavior, implements RFM analysis, high-value customer ranking, and moving average spend trends.  
-The project showcases advanced SQL skills, including CTEs, window functions, and conditional statements.  
-Insights generated can be used for targeted marketing strategies and loyalty programs.
-
----
-
-## Project Structure / Workflow
-
-# SQL Customer Segmentation Project
-
-![SQLite Badge](https://img.shields.io/badge/Database-SQLite-blue)
-![SQL Badge](https://img.shields.io/badge/Language-SQL-orange)
-![Status Badge](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-## Tech Stack
-- **Database:** SQLite 3.50.4  
-- **Query Language:** SQL  
-- **Tools:** SQLite CLI, Visual Studio Code  
-- **Concepts:** Customer Segmentation, RFM Analysis, Window Functions, Conditional Statements
-
----
-
->>>>>>> d311cbe (Add Excel customer segmentation dashboard)
 ## Project Structure / Workflow
 
 sql_customer_segmentation/

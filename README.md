@@ -177,7 +177,7 @@ Developed a SQL-based customer segmentation project. Implemented RFM analysis, h
 
 
 
-Excel Dashboard
+## Excel Dashboard
 
 ![Customer Segmentation Dashboard](customer_segmentation_dashboard.png)
 

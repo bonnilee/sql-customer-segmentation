@@ -174,8 +174,14 @@ Customer Segmentation & Analytics
 Summary:
 
 Developed a SQL-based customer segmentation project. Implemented RFM analysis, high-value customer ranking, and moving average spend trends using window functions and CTEs. Results provide actionable insights for targeted marketing strategies and loyalty programs.
+
+
+
 Excel Dashboard
 
+![Customer Segmentation Dashboard](customer_segmentation_dashboard.png)
+
+To extend the SQL analysis into a business reporting workflow, I created an interactive Excel dashboard using the customer and order data exported from the SQLite database.
 To extend the SQL analysis into a business reporting workflow, I created an interactive Excel dashboard using the customer and order data exported from the SQLite database.
 
 Dashboard Features

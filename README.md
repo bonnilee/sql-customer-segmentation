@@ -71,6 +71,7 @@ Inside SQLite shell, run:
 
 Exit SQLite:
 .exit
+```
 
 This will create the database, populate it with sample data, and run all queries.
 
